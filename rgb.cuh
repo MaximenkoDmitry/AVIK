@@ -1,0 +1,2 @@
+double gpuBlurFilterRGB(unsigned char* host_dst, unsigned char* host_src, int width, int height);
+double gpuBlurFilterRGBOptimized(unsigned char* host_dst, unsigned char* host_src, int width, int height);
